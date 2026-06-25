@@ -12,5 +12,5 @@ A US-based digital marketing agency (Nexus Media) needed an executive, interacti
   * Implemented an interactive `Date Range Control` filter alongside `Cross-filtering` capabilities for dynamic data exploration.
 
 ## 📊 Project Deliverable
-* **Interactive Spreadsheet Dashboard:** [Click here to view the live Google Sheets dashboard](https://docs.google.com/spreadsheets/d/1CYm_XZSIh7NcYdbulAVctzq7eBMspO3srnYkG1TglQE/edit?usp=sharing)
+* **Interactive Spreadsheet Dashboard:** [Click here to view the live Google Sheets](https://docs.google.com/spreadsheets/d/1CYm_XZSIh7NcYdbulAVctzq7eBMspO3srnYkG1TglQE/edit?usp=sharing)
 * **Interactive Dashboard:** [Click here to view the live Looker Studio report](https://datastudio.google.com/reporting/7138c463-70c7-4b54-b884-eb4b1b30a6d5).
